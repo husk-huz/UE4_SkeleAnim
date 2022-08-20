@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealEngineProjects\\SkeleAni\\project\\Source\\project\\project.Build.cs",
+		"E:\\UnrealEngineProjects\\SkeleAni\\project\\Source\\project.Target.cs",
+		"E:\\UnrealEngineProjects\\SkeleAni\\project\\Source\\projectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

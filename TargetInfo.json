@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "project",
+			"Path": "E:\\UnrealEngineProjects\\SkeleAni\\project\\Source\\project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "projectEditor",
+			"Path": "E:\\UnrealEngineProjects\\SkeleAni\\project\\Source\\projectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
